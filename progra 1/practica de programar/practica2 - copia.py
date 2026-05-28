@@ -1,0 +1,1 @@
+num1 = float(int("introduzca su primer numero: "))
